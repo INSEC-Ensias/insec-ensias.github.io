@@ -10,7 +10,8 @@ tags:
 
 ![image](https://github.com/INSEC-Ensias/insec-ensias.github.io/blob/main/assets/images/0_RE7m7FMN9NI5lA4g.jpg?raw=true)
 Hello guys, Cybertalents organized two ctfs for penetration testing scholarship and i liked to introduce you to a new vulnerability *“insecure deserialization”*.
-\nFor our challenge, we have a serialized object that we can exploit for editing the cookie.
+
+For our challenge, we have a serialized object that we can exploit for editing the cookie.
 -Read more about this vulnerability here:-[https://portswigger.net/web-security/deserialization](https://portswigger.net/web-security/deserialization) 
 
 This challenge consists of a simple web page :
@@ -34,7 +35,7 @@ Twitter:- [https://twitter.com/4rr4ys](https://twitter.com/4rr4ys)
 
 ### Club Links:
 Facebook:- [https://www.facebook.com/ensiasinsec](https://www.facebook.com/ensiasinsec)
-Youtube:- [https://www.youtube.com/channel/UCQ_DuJJtTg05hjntfwVEy0Q]https://www.youtube.com/channel/UCQ_DuJJtTg05hjntfwVEy0Q
+Youtube:- [https://www.youtube.com/channel/UCQ_DuJJtTg05hjntfwVEy0Q](https://www.youtube.com/channel/UCQ_DuJJtTg05hjntfwVEy0Q)
 Instagram:- [https://www.instagram.com/insec_club/](https://www.instagram.com/insec_club/)
 Linkedin:- [https://www.linkedin.com/company/insec-ensias/](https://www.linkedin.com/company/insec-ensias/)
 writer: [Ikram Bourhim](https://medium.com/@ikramsofiasimone)

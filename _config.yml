@@ -15,7 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: "INSEC's Blog"
 email:
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-INSEC is the resident computer security club at ENSIAS.
+
+ # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -75,7 +77,7 @@ plugins:
 
 author:
   name   : "INSEC ENSIAS"
-  avatar : "/assets/images/logo.jpg"
+  avatar : "/assets/images/logo.png"
   bio    : "Description"
   links:
     - label: "LinkedIn"
