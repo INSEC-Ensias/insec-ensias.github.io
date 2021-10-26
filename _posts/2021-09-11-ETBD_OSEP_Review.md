@@ -8,6 +8,7 @@ tags:
   - writeup
 ---
 
+
 ![image](https://github.com/INSEC-Ensias/insec-ensias.github.io/blob/main/assets/images/0_RE7m7FMN9NI5lA4g.jpg?raw=true)
 Hello guys, Cybertalents organized two ctfs for penetration testing scholarship and i liked to introduce you to a new vulnerability *“insecure deserialization”*.
 
